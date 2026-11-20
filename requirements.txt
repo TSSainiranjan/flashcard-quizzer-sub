@@ -1,0 +1,12 @@
+# Runtime dependencies
+colorama>=0.4.6
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Code quality
+black>=24.0.0
+isort>=5.10.0
+flake8>=7.0.0
+mypy>=1.8.0
